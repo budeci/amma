@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'last_produs' => 'ПОСЛЕДНИЕ ПРОДУКТЫ',
+  'category_populara' => 'КАТЕГОРИИ TOP',
+  'oferte_recomandate' => 'ИНТЕРЕСНЫЕ ПРЕДЛОЖЕНИЯ',
+  'add_favorit' => 'Добавить в избранное',
+  'add_cart' => 'Добавить в корзину',
+  'category' => 'Категории',
+  'article_blog' => 'СТАТЬИ В БЛОГ',
+  'all_category' => 'Все категории',
+  'search' => 'Поиск',
+  'expired_product' => 'ПРОДУКТЫ ИСТЕКАЕТ В БЛИЖАЙШЕЕ ВРЕМЯ',
+  'products_popular' => 'ПОПУЛЯРНЫЕ ПРОДУКТЫ',
+  'news_feed' => 'Подписаться на ленту новостей',
+  'email' => 'Email',
+  'subscribe' => 'Subscribe',
+  'subscribe_notifications' => 'Подписаться на получение уведомлений о новых продуктах и скидках.',
+  'follow_networks' => 'Следуйте за нами в социальных сетях',
+  'page' => 'Страницы',
+  'collaboration' => 'Сотрудничество',
+  'rights_reserved' => 'Все права защищены.',
+  'search_to_site' => 'Поиск по сайту',
+  'gfdgfd' => 'dasd',
+);

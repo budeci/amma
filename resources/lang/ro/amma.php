@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'last_produs' => 'ULTIMELE PRODUSE',
+  'oferte_recomandate' => 'OFERTE RECOMANDATE',
+  'category_populara' => 'CATEGORIE POPULARĂ',
+  'add_favorit' => 'Adaugă la Favorite',
+  'add_cart' => 'Adaugă în coș',
+  'category' => 'Categorii',
+  'article_blog' => 'ARTICOLE PE BLOG',
+  'all_category' => 'Toate categoriile',
+  'search' => 'Cauta',
+  'expired_product' => 'PRODUSE CARE EXPIRA IN CURAND',
+  'products_popular' => 'PRODUSE POPULARE',
+  'news_feed' => 'Abonează-te la news feed',
+  'page' => 'Pagini',
+  'email' => 'Adresa de email',
+  'subscribe' => 'Aboneaza-te',
+  'subscribe_notifications' => 'Abonează-te pentru a primi notificări cu produse noi și reduceri.',
+  'follow_networks' => 'Urmărește-ne pe rețele de socializare',
+  'collaboration' => 'Colaborare',
+  'rights_reserved' => 'Toate drepturile sunt rezervate.',
+  'search_to_site' => 'Cauta pe site',
+  'gfdgfd' => 'das',
+);

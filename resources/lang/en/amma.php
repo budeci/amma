@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'last_produs' => 'LATEST PRODUCTS',
+  'category_populara' => 'CATEGORY TOP',
+  'oferte_recomandate' => 'FEATURED OFFERS',
+  'add_favorit' => 'Add to Favourites',
+  'add_cart' => 'Add to Cart',
+  'category' => 'Categories',
+  'article_blog' => 'ARTICLES TO BLOG',
+  'all_category' => 'All categories',
+  'search' => 'Search',
+  'expired_product' => 'PRODUCTS EXPIRE SOON',
+  'products_popular' => 'POPULAR PRODUCTS',
+  'news_feed' => 'Subscribe to news feed',
+  'email' => 'Email',
+  'subscribe' => 'Подписываться',
+  'subscribe_notifications' => 'Subscribe to receive notifications of new products and discounts.',
+  'follow_networks' => 'Follow us on social networks',
+  'page' => 'Pages',
+  'collaboration' => 'Collaboration',
+  'rights_reserved' => 'All rights reserved.',
+  'search_to_site' => 'Search on site',
+  'gfdgfd' => 'dasd',
+);
